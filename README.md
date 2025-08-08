@@ -1,4 +1,4 @@
-# 🎯 Task 4: Binary Classification with Logistic Regression
+# Task 4: Binary Classification with Logistic Regression
 
 ## Internship Objective
 Build a **binary classifier** using **Logistic Regression** to identify whether a tumor is malignant or benign using the **Breast Cancer Wisconsin Dataset**.
